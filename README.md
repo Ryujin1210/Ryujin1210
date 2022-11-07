@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=🔥RyuJin%20GitHub🔥&fontSize=90)
+
 # RYU JIN 🔥
 
 ![Ryujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryujin1210&show_icons=true&theme=radical)
@@ -17,7 +19,7 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryujin1210&layout=compact)](https://github.com/Ryujin1210/github-readme-stats)
 
 
 
