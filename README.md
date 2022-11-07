@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=🔥RyuJin%20GitHub🔥&fontSize=90)
 
-# RYU JIN 🔥
-
 ![Ryujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryujin1210&show_icons=true&theme=radical)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRyujin1210%2Fhit-counter&count_bg=%23E16FB1&title_bg=%23555555&icon=apple.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
